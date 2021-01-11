@@ -51,7 +51,5 @@ public class QuestionsRepository {
 			LOGGER.error("QuestionsRepository occure in QuestionsRepository.saveQuestionsAndAnswers" + e);
 		}
 
-		System.out.println("saved successfully");
-
 	}
 }

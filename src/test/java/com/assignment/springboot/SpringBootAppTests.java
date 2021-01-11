@@ -1,10 +1,10 @@
-package com.assignment.HealthCheck;
+package com.assignment.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HealthCheckApplicationTests {
+class SpringBootAppTests {
 
 	@Test
 	void contextLoads() {
